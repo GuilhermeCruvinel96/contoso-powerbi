@@ -65,3 +65,7 @@ Power BI (modelagem, DAX e visualização)
 🔗 [Acesse o relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmJiMmQ4ZDgtMGY1Mi00OTFhLTk4OGUtNjBmYTZhOWYzZjU1IiwidCI6IjhhMzUxMjYzLWRkYmItNGFjMi1hMWZiLWIxYzJhZWY0ZTg5YiJ9)
 &nbsp;&nbsp;
 📄 [Leia o artigo no LinkedIn](https://www.linkedin.com/pulse/receita-em-queda-margem-intacta-o-que-estava-por-tr%C3%A1s-cruvinel-hqwlf/)
+
+---
+
+Confira outros projetos do meu portfólio no [GitHub](https://github.com/GuilhermeCruvinel96)
