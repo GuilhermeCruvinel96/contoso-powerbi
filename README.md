@@ -32,7 +32,7 @@ Esse grupo é formado por três clusters tecnológicos:
 
 Sozinhos, esses clusters perderam **1,0 Bi** em receita no período, enquanto o restante do portfólio cresceu **+0,2 Bi**.
 
-A concentração em Tecnologias Dedicadas caiu de 50% (2007) para 34% (2009) — não como resultado de uma estratégia comercial, mas como consequência da própria queda de demanda. A empresa encolheu junto com o grupo.
+A concentração em Tecnologias Dedicadas caiu de 50% (2007) para 34% (2009). Não como resultado de uma estratégia comercial, mas como consequência da própria queda de demanda. A empresa encolheu junto com o grupo.
 
 Essa hierarquia foi implementada em duas colunas calculadas na DimProduct: `ClusterTecnologico`, que agrupa as subcategorias de produto nos três clusters tecnológicos, e `GrupoTecnologico`, que separa o portfólio entre Tecnologias Dedicadas e Restante do Portfólio com base nesses clusters.
 
@@ -46,7 +46,7 @@ Responde rapidamente o que está acontecendo, qual a magnitude do problema e ond
 
 ![Página 1 do relatório](assets/page1.png)
 
-KPIs: Receita Total, Receita YoY%, Receita YoY Delta e Margem — esta última como contraponto, demonstrando que o problema é de receita, não de rentabilidade.
+KPIs: Receita Total, Delta Receita, Receita YoY% e Margem. Esta última como contraponto, demonstrando que o problema é de receita, não de rentabilidade.
 
 ### Página 2 — Aprofundamento Analítico
 
