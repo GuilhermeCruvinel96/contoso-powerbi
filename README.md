@@ -46,7 +46,7 @@ Responde rapidamente o que está acontecendo, qual a magnitude do problema e ond
 
 ![Página 1 do relatório](assets/page1.png)
 
-KPIs: Receita Total, Delta Receita, Receita YoY% e Margem. Esta última como contraponto, demonstrando que o problema é de receita, não de rentabilidade.
+KPIs: Receita Total, Delta Receita (07-09), Receita YoY% e Margem. Esta última como contraponto, demonstrando que o problema é de receita, não de rentabilidade.
 
 ### Página 2 — Aprofundamento Analítico
 
