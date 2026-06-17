@@ -56,7 +56,7 @@ Demonstra os efeitos da contração e por que ela representa risco estrutural, d
 
 ## Ferramentas utilizadas
 
-![Power BI](https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true)
+<img align="center" alt="Power BI" height="40" width="40" src="https://github.com/GuilhermeCruvinel96/Ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 
 Power BI (modelagem, DAX e visualização)
 
